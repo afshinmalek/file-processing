@@ -1,4 +1,16 @@
-# File Processing Utilities
+<div align="center">
+
+# 📁 File Processing Utilities
+
+### C++ · File I/O · Stream Parsing · Single-Pass Streaming
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![File I/O](https://img.shields.io/badge/File_I%2FO-00599C?style=for-the-badge&logoColor=white)
+![Streaming](https://img.shields.io/badge/Streaming-00599C?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
 
 A collection of 20 single-function C++ streaming utilities for parsing and aggregating
 structured text files, built with `ifstream` and `stringstream`. Each utility processes a

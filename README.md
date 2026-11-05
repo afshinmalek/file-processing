@@ -16,7 +16,7 @@ A collection of 20 single-function C++ streaming utilities for parsing and aggre
 structured text files, built with `ifstream` and `stringstream`. Each utility processes a
 file line by line, without loading the whole file into memory.
 
-> Note: these are reusable functions, not standalone programs — each `.cpp` file defines
+> Note: these are reusable functions, not standalone programs - each `.cpp` file defines
 > one function and has no `main`. To run one, call it from a small driver program, e.g.
 > `g++ -std=c++17 driver.cpp fp18.cpp -o demo`, where `driver.cpp` calls
 > `getColumnSum("data.csv", "Salary")`.
